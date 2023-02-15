@@ -1,0 +1,1 @@
+# bash-environments-to-file
